@@ -8,7 +8,7 @@
 - jfhdsfhddfdlkf
 - fdkljfkdjdkjdfjdlkfjd
 
-#### ![Images for reference!] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.freeimages.com%2Fimages%2Fsmall-previews%2F9ae%2Fgraph-1-1477514.jpg&imgrefurl=https%3A%2F%2Fwww.freeimages.com%2Fsearch%2Fgraph&tbnid=vkYR6vAWmBHGqM&vet=12ahUKEwj3gKyPwe_0AhU_k9gFHcanBbYQMygAegUIARDNAQ..i&docid=Agt2ceL-LDG7tM&w=340&h=239&itg=1&q=free%20images%20graphs&ved=2ahUKEwj3gKyPwe_0AhU_k9gFHcanBbYQMygAegUIARDNAQ)
+#### [![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
 
 ### [Project 2 TAX CALCULATOR] (https://github.com/santo-mantras/github.io/new/main)
 - sndjsfhsajfhajfhdj
@@ -16,4 +16,4 @@
 - jfhdsfhddfdlkf
 - fdkljfkdjdkjdfjdlkfjd
 
-#### ![Images for reference!] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.freeimages.com%2Fimages%2Fsmall-previews%2F9ae%2Fgraph-1-1477514.jpg&imgrefurl=https%3A%2F%2Fwww.freeimages.com%2Fsearch%2Fgraph&tbnid=vkYR6vAWmBHGqM&vet=12ahUKEwj3gKyPwe_0AhU_k9gFHcanBbYQMygAegUIARDNAQ..i&docid=Agt2ceL-LDG7tM&w=340&h=239&itg=1&q=free%20images%20graphs&ved=2ahUKEwj3gKyPwe_0AhU_k9gFHcanBbYQMygAegUIARDNAQ)
+#### [![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
