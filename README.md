@@ -1,7 +1,17 @@
+Hello World!  💁🏻‍♂️👇 Check out my Git Hub Profile👇
 ## Data Science Projects
 ### Name - Santosh Verma
 ### Education
 - IITM
+
+TECH STACK
+Languages (I have been excelling in)
+  🐍 Python
+  🤖 Bash
+  🦾 Power Shell
+  📦 Node.JS (Beginner)
+
+
 ### [Project 1 MOUSE JIGGLER] (https://github.com/santo-mantras/github.io/new/main)
 - sndjsfhsajfhajfhdj
 - fjdhjdfhdfhdhdj
