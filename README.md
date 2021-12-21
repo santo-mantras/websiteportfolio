@@ -1,6 +1,6 @@
 # Data Science Projects Portfolio 💡
 
-## Name - Santosh Verma 😇
+## Name - Santosh Verma
 ## Education
 - [Bsc from IIT MADRAS](https://www.iitm.ac.in/ "IIT MADRAS")
 - [B.E from IOIT](https://aissmsioit.org/ "AISSMS IOIT")
