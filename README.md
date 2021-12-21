@@ -23,4 +23,4 @@
 
 ### ![Tax Graphs!](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgumlet.assettype.com%2Fcarolina%2F2020-09%2Fb6fb63e1-167e-4020-b134-b176f33d59f0%2Fgraph_3068300.jpg%3Fw%3D1200%26h%3D750%26auto%3Dformat%252Ccompress%26fit%3Dmax&imgrefurl=https%3A%2F%2Fwww.carolina.com%2Fknowledge%2F2020%2F09%2F02%2Fthe-basics-of-graphs-and-charts&tbnid=Mbw_6gZW4w7qDM&vet=12ahUKEwiW0ani-_T0AhWW3XMBHbNeAJsQMygCegUIARDRAQ..i&docid=DLVUlSupVtskUM&w=1200&h=675&q=graphs%20images&ved=2ahUKEwiW0ani-_T0AhWW3XMBHbNeAJsQMygCegUIARDRAQ "Tax Graphs")
 
-## For Collab/Feedbacks Connect on ⚽ [My Github Profile](https://github.com/santo-mantras')
+## For Collab/Feedbacks Connect on [My Github Profile](https://github.com/santo-mantras')
